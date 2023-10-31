@@ -9,6 +9,6 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 2,
 		"hurryCostModifier": 0,
-		"requiredTech": "Industrialization",
+		"requiredTech": "Industrialization"
 	}
 ]
