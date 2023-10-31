@@ -11,6 +11,6 @@
 		"upgradesTo": "Modern Armor",
 		"obsoleteTech": "Lasers"
 		"uniques": ["Can move after attacking","[-20]% Strength <vs cities> <when attacking>","[+20]% Strength <when fighting in [Freindly Land] tiles>"],
-		"attackSound": "shot"
+		"attackSound": "shot",
 	}
 ]
