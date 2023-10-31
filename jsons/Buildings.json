@@ -2,6 +2,7 @@
 	{
 		"name": "Lumber Facility",
 		"replaces": "Factory",
+		"uniqueTo": "Canada",
 		"cost": 300,
 		"production": 3,
 		"percentStatBonus": {"production": 12},
