@@ -31,7 +31,7 @@
 		"innerColor": [255,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Canadian Hospitality",
-		"uniques": ["[+2 Production] and [+2 Food] [in all cities] with [Tundra] tiles>","[-50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+2 Production] [in all cities] <with [Tundra] tiles>","[+2 Food] [in all cities] <with [Tundra] tiles>","[-50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Winnipeg","Quebec City","Hamilton",
 			"Kitchener","Victoria","Halifax","Windsor","Saskatoon","Regina","St. John's","Kelowna","Barrie","Sherbrooke","Trois-Rivieres"]
 		"spyNames": ["Anderson", "Johnson", "Williams", "Kelly", "Davis", "Gauthier", "Boucher", "Hill", "Fraser", "Robinson"]
