@@ -1,22 +1,22 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Canada",
+		"leaderName": "Sir John A. Macdonald",
+		"adjective": ["Canadians"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Welcome to Canada!",
+		"startIntroPart2": "It is awfully cold here.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "War it is!",
+		"attacked": "You will regret this action!",
+		"defeated": "Very well, we wish you well.",
+		"introduction": "It is a pleasure to meet you.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "How are you?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": ["No.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
@@ -24,15 +24,16 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "What a fine idea.",
+		"tradeRequest": "What a cold day.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255,255,255],
+		"innerColor": [255,0,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Canadian Hospitality",
+		"uniques": ["[+2 Production] and [+2 Food] [in all cities] with [Tundra] tiles>","[-50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Winnipeg","Quebec City","Hamilton",
+			"Kitchener","Victoria","Halifax","Windsor","Saskatoon","Regina","St. John's","Kelowna","Barrie","Sherbrooke","Trois-Rivieres"]
+		"spyNames": ["Anderson", "Johnson", "Williams", "Kelly", "Davis", "Gauthier", "Boucher", "Hill", "Fraser", "Robinson"]
 	}
 ]
