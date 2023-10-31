@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Mounties",
+		"unitType": "Mounted",
+		"uniqueTo": "Canada",
+		"movement": 4,
+		"strength": 34,
+		"rangedStrength": 
+		"cost": 250,
+		"requiredTech": "Military Science",
+		"upgradesTo": "Modern Armor",
+		"obsoleteTech": "Lasers"
+		"uniques": ["Can move after attacking","[-20]% Strength <vs cities> <when attacking>","[+20]% Strength <when fighting in [Freindly Land] tiles>"],
+		"attackSound": "shot"
 	}
 ]
