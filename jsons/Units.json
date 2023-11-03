@@ -4,14 +4,14 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Canada",
 		"movement": 4,
-		"strength": 34,
-		"rangedStrength": 28,
+		"strength": 30,
+		"rangedStrength": 24,
 		"range": 2,
 		"cost": 250,
 		"requiredTech": "Military Science",
 		"upgradesTo": "Modern Armor",
 		"obsoleteTech": "Lasers"
-		"uniques": ["Can move after attacking","[-20]% Strength <vs cities> <when attacking>","[+20]% Strength <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["Can move after attacking","[-20]% Strength <vs cities> <when attacking>","[+10]% Strength <when fighting in [Friendly Land] tiles>"],
 		"attackSound": "shot"
 	}
 ]
