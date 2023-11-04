@@ -68,7 +68,7 @@
 		"innerColor": [255, 228, 44],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Old Ways",
-		"uniques": ["[+20]% Culture] from [Dessert] tiles [in all cities]"],
+		"uniques": ["[+1 Culture] from [Dessert] tiles [in all cities]"],
 		"cities": ["Canberra","Melbourne","Sydney","Brisbane","Perth","Adelaide","Hobart","Darwin"],
 		"spyNames": ["Anderson", "Johnson", "Williams", "Kelly", "Davis", "Gauthier", "Boucher", "Hill", "Fraser", "Robinson"]
 	}
