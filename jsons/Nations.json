@@ -74,11 +74,11 @@
 
 	},
 	{
-		"name": "Greece",
-		"leaderName": "Alexander",
-		"adjective": ["Greek"],
-		"startBias": ["Coast"],
-		"preferredVictoryType":"Diplomatic",
+		"name": "Aboriginal People",
+		"leaderName": "Neville Bonner",
+		"adjective": ["Aussies"],
+		"startBias": ["Dessert"],
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
