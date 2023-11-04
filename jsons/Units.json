@@ -13,5 +13,19 @@
 		"obsoleteTech": "Lasers"
 		"uniques": ["Can move after attacking","[-20]% Strength <vs cities> <when attacking>","[+10]% Strength <when fighting in [Friendly Land] tiles>"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Islanders",
+		"unitType": "Melee Water",
+		"uniqueTo": "Aboriginal People",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 12,
+		"cost": 40,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit","[+15]% Strength <vs cities> <when attacking>"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
 	}
 ]
