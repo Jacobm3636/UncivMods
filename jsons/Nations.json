@@ -35,5 +35,42 @@
 		"cities": ["Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Winnipeg","Quebec City","Hamilton",
 			"Kitchener","Victoria","Halifax","Windsor","Saskatoon","Regina","St. John's","Kelowna","Barrie","Sherbrooke","Trois-Rivieres"]
 		"spyNames": ["Anderson", "Johnson", "Williams", "Kelly", "Davis", "Gauthier", "Boucher", "Hill", "Fraser", "Robinson"]
+	},
+	{
+		"name": "Aboriginal People",
+		"leaderName": "Neville Bonner",
+		"adjective": ["Aussies"],
+		"startBias": ["Dessert"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Hello!",
+		"startIntroPart2": "Good Luck.",
+		
+		"declaringWar": "War it is!",
+		"attacked": "You will regret this action!",
+		"defeated": "Very well, we wish you well.",
+		"introduction": "It is a pleasure to meet you.",
+		
+		"neutralHello": "How are you?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["No.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "What a fine idea.",
+		"tradeRequest": "Would you like this?",
+
+		"outerColor": [10,10,10],
+		"innerColor": [255, 228, 44],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Old Ways",
+		"uniques": ["[[+15]% Culture] from [Dessert] tiles [in all cities]",
+		"cities": ["Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Winnipeg","Quebec City","Hamilton",
+			"Kitchener","Victoria","Halifax","Windsor","Saskatoon","Regina","St. John's","Kelowna","Barrie","Sherbrooke","Trois-Rivieres"],
+		"spyNames": ["Anderson", "Johnson", "Williams", "Kelly", "Davis", "Gauthier", "Boucher", "Hill", "Fraser", "Robinson"]
 	}
 ]
