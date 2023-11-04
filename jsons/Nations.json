@@ -69,7 +69,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Old Ways",
 		"uniques": "[+15]% Culture] from [Dessert] tiles [in all cities]",
-		"cities": ["Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Winnipeg","Quebec City","Hamilton", "Kitchener","Victoria","Halifax","Windsor","Saskatoon","Regina","St. John's","Kelowna","Barrie","Sherbrooke","Trois-Rivieres"],
+		"cities": ["Canberra","Melbourne","Sydney","Brisbane","Perth","Adelaide","Hobart","Darwin"],
 		"spyNames": ["Anderson", "Johnson", "Williams", "Kelly", "Davis", "Gauthier", "Boucher", "Hill", "Fraser", "Robinson"]
 
 	}
