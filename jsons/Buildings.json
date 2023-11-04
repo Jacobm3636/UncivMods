@@ -13,10 +13,12 @@
 		"requiredTech": "Industrialization"
 	},
 	{
-		"name": "Lighthouse",
+		"name": "Coastal Huts",
 		"cost": 75,
+		"culture": 1,
+		"gold": 1,
 		"replaces": "Lighthouse",
-		"uniqueTo": "Aboriginal Australians",
+		"uniqueTo": "Aboriginal People",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]", "[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]" ],
