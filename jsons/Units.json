@@ -27,5 +27,19 @@
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Expert Hunter",
+		"unitType": "Archery",
+		"uniqueTo": "The Aluets",
+		"replaces": "Archer",
+		"movement": 3,
+		"strength": 6,
+		"rangedStrength": 8,
+		"cost": 45,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
 	}
 ]
