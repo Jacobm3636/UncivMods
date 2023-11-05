@@ -36,7 +36,7 @@
 		"movement": 3,
 		"strength": 6,
 		"rangedStrength": 8,
-		"cost": 45,
+		"cost": 30,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
