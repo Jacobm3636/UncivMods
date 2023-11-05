@@ -31,7 +31,7 @@
 	{
 		"name": "Expert Hunter",
 		"unitType": "Archery",
-		"uniqueTo": "The Aluets",
+		"uniqueTo": "The Aleuts",
 		"replaces": "Archer",
 		"movement": 3,
 		"strength": 6,
