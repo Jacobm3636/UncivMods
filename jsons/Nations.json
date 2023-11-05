@@ -71,5 +71,41 @@
 		"uniques": ["[+1 Culture] from [Desert] tiles [in all cities]"],
 		"cities": ["Canberra","Melbourne","Sydney","Brisbane","Perth","Adelaide","Hobart","Darwin"],
 		"spyNames": ["Anderson", "Johnson", "Williams", "Kelly", "Davis", "Gauthier", "Boucher", "Hill", "Fraser", "Robinson"]
+	},
+	{
+		"name": "The Aleut",
+		"leaderName": "Peter the Aleut",
+		"adjective": ["Aleuts"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Hello!",
+		"startIntroPart2": "Good Luck.",
+		
+		"declaringWar": "War it is!",
+		"attacked": "You will regret this action!",
+		"defeated": "Very well, we wish you well.",
+		"introduction": "It is a pleasure to meet you.",
+		
+		"neutralHello": "How are you?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["No.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "What a fine idea.",
+		"tradeRequest": "Would you like this?",
+
+		"outerColor": [103,214,255],
+		"innerColor": [255,238,21],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Expert Gathers",
+		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Furs] produced"],
+		"cities": ["Unalaska","Akutan","Cold Bay","False Pass","King Cove","Sand Point","Adak"],
+		"spyNames": ["Anderson", "Johnson", "Williams", "Kelly", "Davis", "Gauthier", "Boucher", "Hill", "Fraser", "Robinson"]
 	}
 ]
