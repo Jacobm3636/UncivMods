@@ -27,6 +27,7 @@
 	{
 		"name": "Hatchery and Harbor",
 		"replaces": "Seaport",
+		"uniqueTo": "The Aleuts",
 		"hurryCostModifier": 25,
 		"maintenance": 4,
 		"requiredBuilding": "Harbor",
